@@ -13,6 +13,7 @@ const App = () => (
     <Skills />
     <Testimonial />
     <Footer />
+
   </div>
 );
 
